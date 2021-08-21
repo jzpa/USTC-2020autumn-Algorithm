@@ -1,0 +1,66 @@
+\contentsline {chapter}{\numberline {1}Algorithm Homework 1}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}查找问题}{1}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}(a)线性查找伪代码与正确性证明}{1}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}(b)计算复杂度}{1}{subsection.1.1.2}% 
+\contentsline {section}{\numberline {1.2}判断相关等式和陈述}{2}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}证明等式}{2}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}代入法证明}{3}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}递归树法}{3}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}主方法解递归式}{4}{section.1.6}% 
+\contentsline {subsection}{\numberline {1.6.1}$T(n) = 2T(n/4)+\sqrt {n}$的情况}{4}{subsection.1.6.1}% 
+\contentsline {subsection}{\numberline {1.6.2}$T(n) = 2T(n/4)+n^2$的情况}{4}{subsection.1.6.2}% 
+\contentsline {section}{\numberline {1.7}主方法讨论}{4}{section.1.7}% 
+\contentsline {chapter}{\numberline {2}Algorithm Homework 2}{6}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}堆排序复杂度分析}{6}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}快速排序}{6}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}叶结点深度相关证明：}{6}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}证明平衡划分的概率}{7}{subsection.2.2.2}% 
+\contentsline {chapter}{\numberline {3}Algorithm Homework 3}{8}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}排序算法稳定性分析}{8}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}RANDOM-SELECT最坏情况}{8}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}证明基于比较的排序算法的最坏情况耗时}{8}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}证明k次连续后继查找所需的时间}{9}{section.3.4}% 
+\contentsline {chapter}{\numberline {4}Algorithm Homework 4}{10}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}红黑树操作}{10}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}插入操作}{10}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}删除操作}{10}{subsection.4.1.2}% 
+\contentsline {section}{\numberline {4.2}区间重叠点分析}{11}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}重叠点包含某区间端点}{11}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}数据结构构建}{11}{subsection.4.2.2}% 
+\contentsline {section}{\numberline {4.3}斐波那契堆的相关讨论}{14}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}删除的另一种写法}{14}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}给出紧凑上界}{14}{subsection.4.3.2}% 
+\contentsline {chapter}{\numberline {5}Algorithm Homework 5}{15}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}编写操作伪代码}{15}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}求解0-1背包问题}{15}{section.5.2}% 
+\contentsline {chapter}{\numberline {6}Algorithm Homework 6}{17}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}钢条切割扩展问题}{17}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}计算有向无环图从s到t的最长加权简单路径}{17}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}最优二叉树问题}{18}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}公司宴会交际问题}{19}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}覆盖点集的最小区间问题}{20}{section.6.5}% 
+\contentsline {section}{\numberline {6.6}找零问题}{21}{section.6.6}% 
+\contentsline {chapter}{\numberline {7}Algorithm Homework 7}{23}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}摊还分析}{23}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}聚合法}{23}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}核算法}{23}{subsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.1.3}势能法}{23}{subsection.7.1.3}% 
+\contentsline {section}{\numberline {7.2}d维离散傅里叶变换问题}{24}{section.7.2}% 
+\contentsline {subsection}{\numberline {7.2.1}证明可分解为一维问题}{24}{subsection.7.2.1}% 
+\contentsline {subsection}{\numberline {7.2.2}证明可交换性}{24}{subsection.7.2.2}% 
+\contentsline {subsection}{\numberline {7.2.3}证明时间复杂度}{25}{subsection.7.2.3}% 
+\contentsline {chapter}{\numberline {8}Algorithm Homework 8}{26}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}欧拉回路}{26}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}证明度数恒等式}{26}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}寻欧拉回路算法}{27}{subsection.8.1.2}% 
+\contentsline {section}{\numberline {8.2}套利交易}{27}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Johnson算法}{28}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}最大流的更新}{28}{section.8.4}% 
+\contentsline {chapter}{\numberline {9}Algorithm Homework 9}{29}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}2-SAT问题的多项式解法}{29}{section.9.1}% 
+\contentsline {section}{\numberline {9.2}无向图生成树}{30}{section.9.2}% 
+\contentsline {subsection}{\numberline {9.2.1}满足两集合相等的例子}{30}{subsection.9.2.1}% 
+\contentsline {subsection}{\numberline {9.2.2}满足两集合不相等的例子}{30}{subsection.9.2.2}% 
+\contentsline {subsection}{\numberline {9.2.3}证明S是T的子集}{30}{subsection.9.2.3}% 
+\contentsline {subsection}{\numberline {9.2.4}证明权重不等式}{31}{subsection.9.2.4}% 
+\contentsline {subsection}{\numberline {9.2.5}计算2近似的最大生成树算法}{31}{subsection.9.2.5}% 
